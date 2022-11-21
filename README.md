@@ -1,4 +1,4 @@
-# Maths
+# maths
 
 #### _Front-End Developer at @Nkey_, based in Brazil, Londrina. ᵖʳ
 
