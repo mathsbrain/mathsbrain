@@ -1,11 +1,10 @@
-# Matheus Antunes
+# Maths
 
-![alt text](assets/cape.png)
+#### _Front-End Developer at @Nkey_, based in Brazil, Londrina. ᵖʳ
 
-_Front-End Developer at @Nkey_
+React, Custom hooks and UI are my favorite topics.
 
-[![Linkedin Badge](https://img.shields.io/badge/-omath.dev-0624C3?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/mathsbrain/)](https://www.linkedin.com/in/mathsbrain/)
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Antunes-0624C3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathsbrain/)](https://www.linkedin.com/in/mathsbrain/)
-[![Gmail Badge](https://img.shields.io/badge/-dev.mathsbrain@gmail.com-0624C3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mathsbrain@gmail.com)](mailto:dev.mathsbrain@gmail.com)
+**Instagram: [@omath.dev](https://instagram.com/omath.dev)** <br>
+**Linkedin: [@mathsbrain](https://www.linkedin.com/in/mathsbrain/)**
 
-**_hope you enjoy_** 🤓
+**_`hope you enjoy`_** 🤓
