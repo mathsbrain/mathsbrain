@@ -2,7 +2,7 @@
 
 #### _Front-End Developer at @Nkey_, based in Brazil, Londrina. ᵖʳ
 
-React, Custom hooks and UI are my favorite topics.
+ʀᴇᴀᴄᴛ, ɴᴇxᴛJS ᴀɴᴅ UI ᴀʀᴇ ᴍʏ ғᴀᴠᴏʀɪᴛᴇ ᴛᴏᴘɪᴄs.
 
 **Instagram: [@omath.dev](https://instagram.com/omath.dev)** <br>
 **Linkedin: [@mathsbrain](https://www.linkedin.com/in/mathsbrain/)**
