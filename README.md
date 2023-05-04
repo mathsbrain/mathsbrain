@@ -4,7 +4,7 @@
 
 ʀᴇᴀᴄᴛ, ɴᴇxᴛJS ᴀɴᴅ UI ᴀʀᴇ ᴍʏ ғᴀᴠᴏʀɪᴛᴇ ᴛᴏᴘɪᴄs.
 
-**Twitter: [@omath_dev](https://instagram.com/omath.dev)** <br>
-**Linkedin: [@mathsbrain](https://twitter.com/omath_dev)**
+**Instagram: [@omath_dev](https://instagram.com/omathantunes)** <br>
+**Twitter: [@mathsbrain](https://twitter.com/omath_dev)**
 
 **_`hope you enjoy`_** 🤓
