@@ -1,6 +1,6 @@
 # MΛƬΗ
 
-#### _Front-End Developer at @Nkey_, based in Brazil, Londrina. ᵖʳ
+#### _Front-End Developer, based in Brazil, Londrina. ᵖʳ
 
 ʀᴇᴀᴄᴛ, ɴᴇxᴛJS ᴀɴᴅ UI ᴀʀᴇ ᴍʏ ғᴀᴠᴏʀɪᴛᴇ ᴛᴏᴘɪᴄs.
 
